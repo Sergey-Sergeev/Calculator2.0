@@ -5,7 +5,7 @@ namespace Programm
 {
     internal class MathExample
     {
-        private readonly Char[] allSymbols, numberSymbols;
+        private Char[] allSymbols, numberSymbols;
 
         public MathExample()
         {
